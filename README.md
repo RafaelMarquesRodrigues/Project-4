@@ -16,7 +16,7 @@ You can run both programs by using **java -jar *program*.jar** or by just double
 * **Server side**
   * *add product*
   
-    Adds a product to the store.
+              Adds a product to the store.
   
  * *update stock*
   
