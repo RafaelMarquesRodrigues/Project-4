@@ -52,7 +52,7 @@ You can run both programs by using **java -jar *program*.jar** or by just double
 
   * *exit*
     
-              Shutdown the server.<br>
+              Shutdown the server.
 
 * **Client side**
   * *show products*
@@ -73,7 +73,7 @@ You can run both programs by using **java -jar *program*.jar** or by just double
 
   * *exit*
   
-              Exits from the program.<br>
+              Exits from the program.
     
 ####GOF patterns
 We've utilized the *singleton* pattern designed by the GOF. This project pattern was used to make sure that only one store is available at a time for the server, otherwise the system could operate with two existing stores, which could give the system a lot of problems.
