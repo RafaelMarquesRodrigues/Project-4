@@ -14,11 +14,15 @@ You can run both programs by using **java -jar *program*.jar** or by just double
 
 ####Commands
 * **Server side**
-  * *add product*<br>
+  * *add product*
+  
     Adds a product to the store.
-  * *update stock*<br>
+  
+ * *update stock*
+  
     Updates the quantity of an existing product on the store.
-  * *show stock*<br>
+ 
+ * *show stock*<br>
     Shows all the products at stock at the store.
   * *show out of stock*<br>
     Shows all the products out of stock at the store.
